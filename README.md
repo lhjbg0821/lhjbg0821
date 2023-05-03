@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 
@@ -20,3 +22,4 @@ Here are some ideas to get you started:
 
 
 ![lhjbg0821's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhjbg0821&show_icons=true&theme=gruvbox)
+</div>
